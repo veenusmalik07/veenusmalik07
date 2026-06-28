@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="GitHub Banner">
+</p>
+
 # <div align="center"><h1><B>✦ V E E N U S ✦</b></h1></div>
 
 <div align="center">
