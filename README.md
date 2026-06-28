@@ -1,11 +1,10 @@
-# <div align="center"><h2><B>✦ V E E N U S ✦</b></h2></div>
+<div align="center">
+  
+<h2><B>✦ V E E N U S ✦</b></h2>
 
 <p align="center">
   <img src="banner.jpg" width="100%" alt="GitHub Banner">
 </p>
-
-
-<div align="center">
 
 <p align="center">
 <i>Always learning. Always building.</i>
@@ -34,6 +33,26 @@
 </div>
 
 ---
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/veenus-malik-08b236412">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+
+<a href="https://leetcode.com/u/jK9pX5Y6Ym/">
+<img src="https://cdn.simpleicons.org/leetcode/000000" height="38"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/veenusmalik07">
+<img src="https://cdn.simpleicons.org/hackerrank/000000" height="38"/>
+</a>
+
+<a href="https://www.codechef.com/users/veenusmalik07">
+<img src="https://cdn.simpleicons.org/codechef/000000" height="38"/>
+</a>
+
+</p>
 
 # 🌌 The Explorer
 
