@@ -77,7 +77,7 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 <td align="center">
 
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="35" width="120"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" height="40" width="120"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" height="35" width="120"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="35" width="120"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="35" width="120"/>
 
