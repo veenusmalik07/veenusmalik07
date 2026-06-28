@@ -1,3 +1,26 @@
+╭──────────────────────────────╮
+        V E E N U S
+  Exploring the universe of code.
+╰──────────────────────────────╯
+
+☀️ Surface
+Who I am
+
+🪐 Orbit
+What I'm learning
+
+🚀 Launches
+Projects
+
+✨ Constellation
+Tech Stack
+
+🌠 Missions
+Open Source
+
+📡 Signal
+LinkedIn • LeetCode • CodeChef
+
 # Hi 👋, I'm Veenus Malik
 
 🎓 BS in Data Science @ IIT Madras
