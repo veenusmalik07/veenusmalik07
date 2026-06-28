@@ -13,19 +13,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/veenus-malik-08b236412">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="100"/>
   </a>
 
   <a href="https://leetcode.com/u/jK9pX5Y6Ym/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="100"/>
   </a>
 
   <a href="https://www.hackerrank.com/profile/veenusmalik07">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" height="100"/>
   </a>
 
   <a href="https://www.codechef.com/users/veenusmalik07">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="100"/>
   </a>
 </p>
 
@@ -44,10 +44,10 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 
 <div align="center">
 
-<table width="95%">
+<table width="115%">
 <tr>
-<th width="25%">💻 Category</th>
-<th width="75%">⚙️ Technologies</th>
+<th width="45%">💻 Category</th>
+<th width="95%">⚙️ Technologies</th>
 </tr>
 
 <tr>
