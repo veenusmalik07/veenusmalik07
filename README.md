@@ -1,5 +1,6 @@
 <div align="center">
-## ✦ VEENUS MALIK ✦
+  
+# ✦ VEENUS MALIK ✦
 <p align="center">
   <img src="banner.jpg" width="100%" alt="GitHub Banner">
 </p>
@@ -28,7 +29,6 @@
 </a>
 </p>
 
-</div>
 
 
 
@@ -82,5 +82,5 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 
 </div>
 
-
+</div>
 
