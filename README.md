@@ -1,58 +1,9 @@
-╭──────────────────────────────╮
-        V E E N U S
-  Exploring the universe of code.
-╰──────────────────────────────╯
+<div align="center">
 
-☀️ Surface
-Who I am
+# ✦ V E E N U S ✦
 
-🪐 Orbit
-What I'm learning
+### *Building constellations from code.*
 
-🚀 Launches
-Projects
+*"Every line of code is another star in the universe I'm creating."*
 
-✨ Constellation
-Tech Stack
-
-🌠 Missions
-Open Source
-
-📡 Signal
-LinkedIn • LeetCode • CodeChef
-
-# Hi 👋, I'm Veenus Malik
-
-🎓 BS in Data Science @ IIT Madras
-
-💻 Full Stack Developer
-
-🌱 Currently learning Java, Linux and Data Structures
-
-🚀 Open Source Contributor
-
-✨ I enjoy building practical web applications and solving coding problems.
-
-
-
-## 🛠 Tech Stack
-
-- Python
-- Java
-- Flask
-- Vue.js
-- SQL
-- SQLite
-- HTML
-- CSS
-- JavaScript
-- Git
-- Linux
-
-
-## 🌐 Connect with Me
-
-- 💼 LinkedIn
-- 💻 LeetCode
-- 🏆 HackerRank
-- 🍛 CodeChef
+</div>
