@@ -1,6 +1,6 @@
 <div align="center">
   
-# <h2><B>✦ V E E N U S ✦</b></h2>
+# <h1><u><B>✦ V E E N U S ✦</u></b></h1>
 
 <p align="center">
   <img src="banner.jpg" width="100%" alt="GitHub Banner">
@@ -34,23 +34,20 @@
 
 ---
 
-# 🌌 The Explorer
+# ✦ ABOUT
 
-```text
-Name        : Veenus Malik
-Location    : India 🇮🇳
-Education   : BS in Data Science @ IIT Madras
-Focus       : Full Stack Development
-Mission     : Build elegant software that solves real-world problems.
-```
+> **BS in Data Science @ IIT Madras**
 
-> "Every project begins as a tiny star. My goal is to connect them into constellations."
+I'm a full-stack developer passionate about building clean, user-friendly applications and continuously improving my problem-solving skills through projects, open source, and DSA.
 
+- ✦ Currently learning **Java**, **Linux**, **Backend Development**
+- ✦ Open Source Contributor
+- ✦ Interested in scalable software and clean UI/UX
 ---
 
 
 
-## ✦ TECH STACK
+# ✦ TECH STACK
 
 <div align="center">
 
