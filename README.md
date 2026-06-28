@@ -49,6 +49,8 @@ Mission     : Build elegant software that solves real-world problems.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
 </div>
+---
+
 
 <div align="center">
 
@@ -75,9 +77,6 @@ Mission     : Build elegant software that solves real-world problems.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
----
-
-
 
 
 # 📈 Stellar Activity
