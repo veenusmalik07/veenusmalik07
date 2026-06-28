@@ -34,7 +34,7 @@
 
 ### ✦ ABOUT ✦
 
-> **BS in Data Science @ IIT Madras**
+ **BS in Data Science @ IIT Madras**
 
 I'm a full-stack developer passionate about building clean, scalable, and user-friendly applications. I enjoy solving real-world problems through software, continuously strengthening my skills in data structures, backend development, and open-source collaboration while always exploring better ways to learn and create.
 
@@ -44,7 +44,7 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 
 <div align="center">
 
-<table width="115%">
+<table width="145%">
 <tr>
 <th width="45%">💻 Category</th>
 <th width="95%">⚙️ Technologies</th>
