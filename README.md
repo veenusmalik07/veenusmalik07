@@ -44,10 +44,10 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 
 <div align="center">
 
-<table width="145%">
+<table height="40" width="150">
 <tr>
-<th width="45%">💻 Category</th>
-<th width="95%">⚙️ Technologies</th>
+<th height="40" width="150">💻 Category</th>
+<th height="40" width="150">⚙️ Technologies</th>
 </tr>
 
 <tr>
