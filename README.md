@@ -1,7 +1,5 @@
 <div align="center">
   
-# <h1><u><B>✦ V E E N U S ✦</u></b></h1>
-
 <p align="center">
   <img src="banner.jpg" width="100%" alt="GitHub Banner">
 </p>
@@ -32,19 +30,13 @@
 
 </div>
 
----
+
 
 # ✦ ABOUT
 
 > **BS in Data Science @ IIT Madras**
 
-I'm a full-stack developer passionate about building clean, user-friendly applications and continuously improving my problem-solving skills through projects, open source, and DSA.
-
-- ✦ Currently learning **Java**, **Linux**, **Backend Development**
-- ✦ Open Source Contributor
-- ✦ Interested in scalable software and clean UI/UX
----
-
+I'm a full-stack developer passionate about building clean, scalable, and user-friendly applications. I enjoy solving real-world problems through software, continuously strengthening my skills in data structures, backend development, and open-source collaboration while always exploring better ways to learn and create.
 
 
 # ✦ TECH STACK
@@ -62,7 +54,7 @@ I'm a full-stack developer passionate about building clean, user-friendly applic
 ---
 
 
-# 📈 Stellar Activity
+# ✦ STATS
 
 <div align="center">
 
@@ -82,9 +74,11 @@ I'm a full-stack developer passionate about building clean, user-friendly applic
 
 ### ✦
 
-*"Still discovering new galaxies, one commit at a time."*
+<div align="center">
 
-⭐ Thanks for visiting my universe.
+### Thanks for stopping by.
+
+<i>See you in the next commit.</i>
 
 </div>
 
