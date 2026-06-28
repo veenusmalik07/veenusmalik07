@@ -1,4 +1,4 @@
-# <div align="center"><h3>✦ V E E N U S ✦</h3></div>
+# <div align="center"><h2><B>✦ V E E N U S ✦</b></h2></div>
 
 <div align="center">
 
