@@ -81,14 +81,7 @@ Mission     : Build elegant software that solves real-world problems.
 
 <div align="center">
 
-📧 **Email**
-[veenusmalik07@gmail.com](mailto:veenusmalik07@gmail.com)
 
-</div>
-
----
-
-<div align="center">
 
 ### ✦
 
