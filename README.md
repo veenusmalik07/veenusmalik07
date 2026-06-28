@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✦ VEENUS MALIK ✦
+## ✦ VEENUS MALIK ✦
 <p align="center">
   <img src="banner.jpg" width="100%" alt="GitHub Banner">
 </p>
@@ -9,7 +9,7 @@
 <i>Always learning. Always building.</i>
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/veenus-malik-08b236412">
@@ -29,17 +29,18 @@
 </a>
 </p>
 
+<br><br>
 
 
-
-## ✦ ABOUT
+### ✦ ABOUT ✦
 
 > **BS in Data Science @ IIT Madras**
 
 I'm a full-stack developer passionate about building clean, scalable, and user-friendly applications. I enjoy solving real-world problems through software, continuously strengthening my skills in data structures, backend development, and open-source collaboration while always exploring better ways to learn and create.
 
+<br><br>
 
-## ✦ TECH STACK
+### ✦ TECH STACK ✦
 
 <div align="center">
 
@@ -51,10 +52,11 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 | **Tools** | <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-F2F2F2?style=for-the-badge&logo=linux&logoColor=black"/> |
 
 </div>
----
+
+<br><br>
 
 
-## ✦ STATS
+### ✦ STATS ✦
 
 <div align="center">
 
@@ -66,8 +68,7 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 
 </div>
 
----
-
+<br><br>
 
 <div align="center">
 
