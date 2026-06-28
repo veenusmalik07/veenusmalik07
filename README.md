@@ -89,3 +89,71 @@ Mission     : Build elegant software that solves real-world problems.
 ⭐ Thanks for visiting my universe.
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ✨ venus.malik()
+
+## 💫 Building Constellations from Code
+
+> "Every line of code is another star in the universe I'm creating."
+
+---
+
+### 🌠 About Me
+- **Location:** India 🇮🇳  
+- **Education:** BS in Data Science @ IIT Madras
+- **Focus:** Full Stack Development
+- **Mission:** Build elegant software that solves real-world problems
+
+---
+
+### 🛠 Tech Constellation
+**Languages:** Python · Java · JavaScript  
+**Frontend:** Vue.js · HTML · CSS  
+**Backend:** Flask · Node.js  
+**Data:** SQL · SQLite  
+**DevOps:** Linux · Git · Redis
+
+---
+
+### ⭐ Featured Projects
+*[Add 2-3 best projects with badges & descriptions]*
+
+---
+
+### 📊 Stellar Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veenusmalik07&theme=tokyonight)
+
+---
+
+### 💬 Get in Touch
+📧 [veenusmalik07@gmail.com](mailto:veenusmalik07@gmail.com)  
+🔗 [LinkedIn](link) | 🐙 [GitHub](https://github.com/veenusmalik07)
+
+---
+
+⭐ *Still discovering new galaxies, one commit at a time.*
