@@ -48,8 +48,8 @@ Mission     : Build elegant software that solves real-world problems.
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 </div>
----
 
+---
 
 
 
@@ -67,10 +67,8 @@ Mission     : Build elegant software that solves real-world problems.
 
 ---
 
-# 📡 Signal
 
 <div align="center">
-
 
 
 ### ✦
