@@ -12,23 +12,22 @@
 <br><br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/veenus-malik-08b236412">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/veenus-malik-08b236412">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48"/>
+  </a>
 
-<a href="https://leetcode.com/u/jK9pX5Y6Ym/">
-<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcodee"/>
-</a>
+  <a href="https://leetcode.com/u/jK9pX5Y6Ym/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="48"/>
+  </a>
 
-<a href="https://www.hackerrank.com/profile/veenusmalik07">
-<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank"/>
-</a>
+  <a href="https://www.hackerrank.com/profile/veenusmalik07">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" height="48"/>
+  </a>
 
-<a href="https://www.codechef.com/users/veenusmalik07">
-<img src="https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef"/>
-</a>
+  <a href="https://www.codechef.com/users/veenusmalik07">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="48"/>
+  </a>
 </p>
-
 <br><br>
 
 
