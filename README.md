@@ -44,7 +44,7 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 
 <div align="center">
 
-<table height="40" width="150">
+<table height="150%" width="150%">
 <tr>
 <th height="40" width="150">💻 Category</th>
 <th height="40" width="150">⚙️ Technologies</th>
