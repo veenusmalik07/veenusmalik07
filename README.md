@@ -13,21 +13,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/veenus-malik-08b236412">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="48"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="60"/>
   </a>
 
   <a href="https://leetcode.com/u/jK9pX5Y6Ym/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="48"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="60"/>
   </a>
 
   <a href="https://www.hackerrank.com/profile/veenusmalik07">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" height="48"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" height="60"/>
   </a>
 
   <a href="https://www.codechef.com/users/veenusmalik07">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="48"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="60"/>
   </a>
 </p>
+
 <br><br>
 
 
@@ -39,21 +40,63 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 
 <br><br>
 
-### ✦ TECH STACK ✦
+<h2 align="center">✦ TECH STACK ✦</h2>
 
 <div align="center">
-<table width = "90%">
 
-| 💻 Category | ⚙️ Technologies |
-| :---------: | :-------------: |
-| **Languages** | <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Java-555555?style=for-the-badge&logo=openjdk"/> <img src="https://img.shields.io/badge/JavaScript-EAEAEA?style=for-the-badge&logo=javascript"/> |
-| **Frontend** | <img src="https://img.shields.io/badge/HTML5-222222?style=for-the-badge"/> <img src="https://img.shields.io/badge/CSS3-D9D9D9?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Vue.js-666666?style=for-the-badge&logo=vuedotjs"/> |
-| **Backend** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/SQL-444444?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQLite-BDBDBD?style=for-the-badge&logo=sqlite"/> <img src="https://img.shields.io/badge/Redis-777777?style=for-the-badge&logo=redis"/> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Linux-F2F2F2?style=for-the-badge&logo=linux"/> |
+<table width="95%">
+<tr>
+<th width="25%">💻 Category</th>
+<th width="75%">⚙️ Technologies</th>
+</tr>
+
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Backend</b></td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools</b></td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</td>
+</tr>
 
 </table>
-</div>
 
+</div>
 <br><br>
 
 
