@@ -35,25 +35,6 @@ Mission     : Build elegant software that solves real-world problems.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square\&logo=vuedotjs\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-
-</div>
----
-
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -77,6 +58,9 @@ Mission     : Build elegant software that solves real-world problems.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
+---
+
+
 
 
 # 📈 Stellar Activity
