@@ -43,6 +43,7 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 ### ✦ TECH STACK ✦
 
 <div align="center">
+<table width = "90%">
 
 | 💻 Category | ⚙️ Technologies |
 | :---------: | :-------------: |
@@ -51,26 +52,18 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 | **Backend** | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-444444?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQLite-BDBDBD?style=for-the-badge&logo=sqlite&logoColor=black"/> <img src="https://img.shields.io/badge/Redis-777777?style=for-the-badge&logo=redis&logoColor=white"/> |
 | **Tools** | <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-F2F2F2?style=for-the-badge&logo=linux&logoColor=black"/> |
 
+</table>
 </div>
 
 <br><br>
 
 
-### ✦ STATS ✦
+### ✦ GITHUB ACTIVITY ✦
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=veenusmalik07\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veenusmalik07\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
-<br><br>
-
-<div align="center">
+<p align="center">
+<img width="54%" src="YOUR_STATS"/>
+<img width="41%" src="YOUR_LANGUAGES"/>
+</p>
 
 
 ### ✦
