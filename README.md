@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/veenus-malik-08b236412">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="100" width="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="150"/>
   </a>
 
   <a href="https://leetcode.com/u/jK9pX5Y6Ym/">
