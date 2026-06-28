@@ -52,44 +52,8 @@ Mission     : Build elegant software that solves real-world problems.
 
 ---
 
-# 🚀 Launches
 
-### ⭐ AstroIQ
 
-A responsive quiz platform featuring authentication, leaderboards and gamification.
-
----
-
-### ⭐ Hospital Management System
-
-A complete full-stack application built for hospital workflow management.
-
----
-
-### ⭐ Open Source
-
-* 🌍 GirlScript Summer of Code Contributor
-* 🚀 OMNYX Contributor
-
----
-
-# 🌠 Current Orbit
-
-```text
-☾ Data Structures & Algorithms
-
-☾ Java Development
-
-☾ Linux
-
-☾ DBMS
-
-☾ Backend Engineering
-
-☾ Open Source Contributions
-```
-
----
 
 # 📈 Stellar Activity
 
@@ -108,18 +72,6 @@ A complete full-stack application built for hospital workflow management.
 # 📡 Signal
 
 <div align="center">
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/veenus-malik-08b236412/
-
-💻 **LeetCode**
-https://leetcode.com/u/jK9pX5Y6Ym/
-
-🏆 **HackerRank**
-https://www.hackerrank.com/profile/veenusmalik07
-
-🍛 **CodeChef**
-https://www.codechef.com/users/veenusmalik07
 
 📧 **Email**
 [veenusmalik07@gmail.com](mailto:veenusmalik07@gmail.com)
