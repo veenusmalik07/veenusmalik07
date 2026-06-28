@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Veenus Malik
 
-<!--
-**veenusmalik07/veenusmalik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS in Data Science @ IIT Madras
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Java, Linux and Data Structures
+
+🚀 Open Source Contributor
+
+✨ I enjoy building practical web applications and solving coding problems.
+
+
+
+## 🛠 Tech Stack
+
+- Python
+- Java
+- Flask
+- Vue.js
+- SQL
+- SQLite
+- HTML
+- CSS
+- JavaScript
+- Git
+- Linux
+
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn
+- 💻 LeetCode
+- 🏆 HackerRank
+- 🍛 CodeChef
