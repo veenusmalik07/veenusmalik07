@@ -1,8 +1,9 @@
+# <div align="center"><h2><B>✦ V E E N U S ✦</b></h2></div>
+
 <p align="center">
   <img src="banner.jpg" width="100%" alt="GitHub Banner">
 </p>
 
-# <div align="center"><h1><B>✦ V E E N U S ✦</b></h1></div>
 
 <div align="center">
 
@@ -12,10 +13,23 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/veenus-malik-08b236412/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/jK9pX5Y6Ym/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/veenusmalik07)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/veenusmalik07)
+<p align="center">
+<a href="https://www.linkedin.com/in/veenus-malik-08b236412">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/jK9pX5Y6Ym/">
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/veenusmalik07">
+<img src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/veenusmalik07">
+<img src="https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
