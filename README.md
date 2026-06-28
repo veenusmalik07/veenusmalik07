@@ -6,9 +6,9 @@
 
 <div align="center">
 
-### *Building constellations from code.*
-
-*"Every line of code is another star in the universe I'm creating."*
+<p align="center">
+<i>Always learning. Always building.</i>
+</p>
 
 <br>
 
