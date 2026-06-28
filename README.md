@@ -102,9 +102,16 @@ I'm a full-stack developer passionate about building clean, scalable, and user-f
 
 ### ✦ GITHUB ACTIVITY ✦
 
+<h2 align="center">✦ GITHUB ACTIVITY ✦</h2>
+
 <p align="center">
-<img width="54%" src="YOUR_STATS"/>
-<img width="41%" src="YOUR_LANGUAGES"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veenusmalik07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenusmalik07&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=veenusmalik07&theme=transparent&hide_border=true"/>
 </p>
 
 
